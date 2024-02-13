@@ -1,4 +1,4 @@
-# CodSoft-internship
+# CodSoft Level 1-internship
 I have completed my given tasks for my internship as a UI/UX desginer in CodSoft.
 
 Task 1: Mobile App Signup Flow
